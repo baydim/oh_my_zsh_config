@@ -106,3 +106,6 @@ export PATH=$HOME/development/flutter/bin:$PATH
 #VSCODE INSIDER MAC
 export PATH="$PATH:/Applications/Visual Studio Code - Insiders.app/Contents/Resources/app/bin"
 alias code="/Applications/Visual\ Studio\ Code\ -\ Insiders.app/Contents/Resources/app/bin/code"
+
+#BRAVE IS CHROME DEFAULT TO DEBUG FLUTTER WEB
+export CHROME_EXECUTABLE="/Applications/Brave Browser.app/Contents/MacOS/Brave Browser"
